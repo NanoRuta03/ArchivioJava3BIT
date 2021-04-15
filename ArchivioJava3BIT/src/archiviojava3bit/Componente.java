@@ -6,6 +6,6 @@ package archiviojava3bit;
  * e eventuali altri metodi
  * @author INSERISCI_NOME
  */
-public class X {
+public class Componente {
     
 }
