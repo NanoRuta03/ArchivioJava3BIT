@@ -10,7 +10,8 @@ public class Autoveicolo {
     private String marca;
     private String Carrozzeria;
     private String Colore;
-    private int cilindrata
+    private int cilindrata;
+    private int porte;
     marca -mercedes
     marca -fiat
     marca -audi
