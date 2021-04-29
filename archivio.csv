@@ -1,0 +1,12 @@
+auto,modello,Carrozzeria,anno,mese,colore,cilindrata,porte,cambio
+mercedes,gle,coupe,2016,maggio,nero,3500,4,semi-automatico
+audi,a3,normale,1998,ottobre,blu,2000,3,manuale
+citroen,traction avant,limousine,1956,luglio,bianco,1200,4,manuale
+porsche,911,targa,2021,maggio,bianco,3000,2,semi-automatico
+porsche,918,deluxe,2017,aprile,bianco,4000,2,semi-automatico
+ferrari,portofino,coupe,2016,dicembre,rosso,3000,2,semi-automatico
+mercedes,gle,coupe,2021,maggio,nero,3400,4,semi-automatico
+mercedes,coupe,amg gt,2016,aprile,verde inferno,3500,2,semi-automatico
+bmw,serie 7,berlina,2021,aprile,bianco,4000,4,semi-automatico
+fiat,500,city car,2021,aprile,beige,900,3,manuale
+fiat,500e,city car,2021,aprile,grigio,eletrica,3,automatico
